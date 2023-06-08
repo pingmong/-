@@ -15,7 +15,7 @@
 - 온습도센서 - 온도와 습도를 감지한다.
 
 ### 작품 회로도
-![Untitled Sketch_bb](https://github.com/pingmong/2023berry/assets/131340640/4cca5e27-8723-4934-b2e5-525b9b330e37)
+![Untitled Sketch_bb](https://github.com/pingmong/2023berry/assets/131340640/26a48b1c-da4f-4ca7-ba9f-0756a9c8a07e)
 
 
 
